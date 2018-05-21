@@ -1,6 +1,8 @@
 # speech-api-pipeline
 ## explanation of this system
 
+![system-diagram](https://user-images.githubusercontent.com/12594994/40313986-19352b74-5d52-11e8-8332-7d3993fd73de.png)
+
 I want to automate transcribing audio to text using GCP Speech Api.
 This system is planned for the purpose.
 
