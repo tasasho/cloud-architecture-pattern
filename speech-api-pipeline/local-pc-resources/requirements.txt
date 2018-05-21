@@ -1,0 +1,5 @@
+##### Requireements for local pc of speech-api-pipeline #####
+boto3
+google-cloud
+pydub
+watchdog
